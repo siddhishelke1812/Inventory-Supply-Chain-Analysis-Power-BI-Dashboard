@@ -12,8 +12,6 @@ Power Query – data cleaning and transformation
 
 DAX (Data Analysis Expressions) – custom measures & KPIs
 
-Data Modeling – relationships between categories, orders, and regions
-
 
 
 ## ✨ Features / Highlights :
