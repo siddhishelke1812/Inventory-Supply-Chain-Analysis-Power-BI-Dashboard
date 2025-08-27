@@ -21,7 +21,7 @@ Data Modeling – relationships between categories, orders, and regions
 
 Companies often face challenges in monitoring supply chain efficiency, such as high transportation costs, delayed orders, poor warehouse utilization, and rising backorders.
 
-### Goal of the Dashboard
+## Goal of the Dashboard
 
 To provide an end-to-end visualization tool that enables supply chain managers to:
 
@@ -31,7 +31,7 @@ Identify bottlenecks in order fulfillment and backorders.
 
 Monitor transportation costs and sales growth across regions and categories.
 
-Walkthrough of Key Visuals
+## Walkthrough of Key Visuals :
 
 KPIs (Top Left):
 
@@ -53,7 +53,7 @@ Backorders by Status (Bar Chart): Visualizes fulfilled (838), pending (248), and
 
 Inventory Level by Region & Category (Bar Chart): Tracks stock levels across categories and regions.
 
-Business Impact & Insights
+## Business Impact & Insights :
 
 Cost Optimization: Identified high transportation costs in the West region.
 
