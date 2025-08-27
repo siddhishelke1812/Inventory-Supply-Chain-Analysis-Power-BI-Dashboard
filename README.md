@@ -1,10 +1,10 @@
 # 📦 Supply Chain & Inventory Management Dashboard
-## 📌 Short Description / Purpose
+## 📌 Short Description / Purpose :
 
 An interactive Power BI dashboard designed to analyze and optimize supply chain performance.
 It tracks warehouse utilization, transportation costs, lead time, sales growth, inventory levels, and backorders across regions and categories.
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack :
 
 Power BI Desktop – for dashboard development & visualization
 
@@ -14,15 +14,14 @@ DAX (Data Analysis Expressions) – custom measures & KPIs
 
 Data Modeling – relationships between categories, orders, and regions
 
-File Format – .pbix (development), .csv (dataset), .png/.jpg (preview)
 
 
-## ✨ Features / Highlights
-Business Problem
+## ✨ Features / Highlights :
+## Business Problem
 
 Companies often face challenges in monitoring supply chain efficiency, such as high transportation costs, delayed orders, poor warehouse utilization, and rising backorders.
 
-Goal of the Dashboard
+### Goal of the Dashboard
 
 To provide an end-to-end visualization tool that enables supply chain managers to:
 
